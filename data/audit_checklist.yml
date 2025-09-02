@@ -1,0 +1,19 @@
+
+---
+
+## 📄 `data/audit_checklist.yml`
+
+```yaml
+controls:
+  - id: A.5.1
+    name: Information Security Policies
+    description: Ensure policies for information security are defined, approved, and communicated.
+  - id: A.6.1
+    name: Organization of Information Security
+    description: Roles and responsibilities related to information security are clearly defined.
+  - id: A.12.4
+    name: Logging and Monitoring
+    description: Event logs are produced, stored, and regularly reviewed.
+  - id: A.16.1
+    name: Incident Management
+    description: A consistent and effective approach to incident management is established.
